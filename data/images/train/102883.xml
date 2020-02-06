@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>102883.jpeg</filename>
+	<path>C:\Users\sujit\OneDrive\Desktop\train\102883.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>card</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>133</ymin>
+			<xmax>580</xmax>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+</annotation>
