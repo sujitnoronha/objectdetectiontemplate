@@ -14,13 +14,13 @@
 	<object>
 		<name>card</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>37</xmin>
-			<ymin>44</ymin>
-			<xmax>602</xmax>
-			<ymax>590</ymax>
+			<xmin>38</xmin>
+			<ymin>37</ymin>
+			<xmax>612</xmax>
+			<ymax>600</ymax>
 		</bndbox>
 	</object>
 </annotation>
